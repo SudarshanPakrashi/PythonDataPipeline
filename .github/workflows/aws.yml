@@ -1,4 +1,4 @@
-name: Python application github actionns
+name: Python application github actions
 on: [push]
 jobs:
   build:
