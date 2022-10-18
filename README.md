@@ -14,3 +14,4 @@
    4. git add *
    5. git commit -m "initial setup"
    6. git push
+6. Setup CI
