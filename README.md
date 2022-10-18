@@ -1,3 +1,5 @@
+[![Python application github actionns](https://github.com/SudarshanPakrashi/PythonDataPipeline/actions/workflows/aws.yml/badge.svg)](https://github.com/SudarshanPakrashi/PythonDataPipeline/actions/workflows/aws.yml)
+
 # PythonDataPipeline
 
 ## Environment setup
